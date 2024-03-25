@@ -1,12 +1,12 @@
 module.exports = {
   verifyConditions: [
-    "semantic-release-expo",
+    "@semantic-release-expo",
     "@semantic-release/changelog",
     "@semantic-release/git",
     "@semantic-release/npm"
   ],
   prepare: [
-    "semantic-release-expo",
+    "@semantic-release-expo",
     "@semantic-release/changelog",
     "@semantic-release/npm",
     {
