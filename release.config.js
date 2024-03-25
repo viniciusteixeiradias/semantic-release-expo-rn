@@ -21,5 +21,6 @@ module.exports = {
   ],
   publish: false,
   success: false,
-  fail: false
+  fail: false,
+  branches: ["main"]
 };
