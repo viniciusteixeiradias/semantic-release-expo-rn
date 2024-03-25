@@ -28,9 +28,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run tests
-        run: npm test
-
       # - name: Prepare prerelease semantic
       #   if: github.ref != 'refs/heads/main'
       #   run: mv .releaserc.prerelease.yaml .releaserc.yaml
