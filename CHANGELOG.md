@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/viniciusteixeiradias/semantic-release-expo-rn/compare/v1.0.0...v1.0.1) (2024-03-25)
+
+
+### Bug Fixes
+
+* after v1.0.0 ([478958f](https://github.com/viniciusteixeiradias/semantic-release-expo-rn/commit/478958ffd1488b6d7f8353d75592b3dc5974bc21))
+
 # 1.0.0 (2024-03-25)
 
 
